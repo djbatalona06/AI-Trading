@@ -6,9 +6,10 @@
   "type": "module",
   "scripts": {
     "build": "node tools/build.mjs",
-    "test": "node --test test/",
+    "test": "node --test",
     "gen:workflows": "node tools/gen-workflows.mjs",
-    "cli": "node src/cli/indicator-cli.mjs"
+    "cli": "node src/cli/indicator-cli.mjs",
+    "worldcup": "node src/cli/worldcup-cli.mjs"
   },
   "engines": {
     "node": ">=20"

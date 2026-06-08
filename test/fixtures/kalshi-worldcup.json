@@ -1,0 +1,21 @@
+{
+  "event": "KXMENWORLDCUP-26",
+  "fetchedAt": "2026-06-08T00:00:00.000Z",
+  "_note": "ILLUSTRATIVE snapshot for offline testing/demo. Prices approximate public Kalshi spreads circa early June 2026 (winner + advancement markets). Regenerate from live data with: npm run worldcup -- --save test/fixtures/kalshi-worldcup.json",
+  "markets": [
+    { "ticker": "KXMENWORLDCUP-26-ESP", "title": "Will Spain win the 2026 World Cup?", "yes_sub_title": "Spain (winner)", "yes_bid": 16, "yes_ask": 17, "no_bid": 83, "no_ask": 84, "last_price": 17, "volume": 412000, "open_interest": 88000, "status": "active" },
+    { "ticker": "KXMENWORLDCUP-26-FRA", "title": "Will France win the 2026 World Cup?", "yes_sub_title": "France (winner)", "yes_bid": 16, "yes_ask": 17, "no_bid": 83, "no_ask": 84, "last_price": 17, "volume": 455000, "open_interest": 95000, "status": "active" },
+    { "ticker": "KXMENWORLDCUP-26-ENG", "title": "Will England win the 2026 World Cup?", "yes_sub_title": "England (winner)", "yes_bid": 10, "yes_ask": 11, "no_bid": 89, "no_ask": 90, "last_price": 10, "volume": 301000, "open_interest": 61000, "status": "active" },
+    { "ticker": "KXMENWORLDCUP-26-POR", "title": "Will Portugal win the 2026 World Cup?", "yes_sub_title": "Portugal (winner)", "yes_bid": 9, "yes_ask": 10, "no_bid": 90, "no_ask": 91, "last_price": 10, "volume": 198000, "open_interest": 40000, "status": "active" },
+    { "ticker": "KXMENWORLDCUP-26-ARG", "title": "Will Argentina win the 2026 World Cup?", "yes_sub_title": "Argentina (winner)", "yes_bid": 8, "yes_ask": 9, "no_bid": 91, "no_ask": 92, "last_price": 9, "volume": 360000, "open_interest": 74000, "status": "active" },
+    { "ticker": "KXMENWORLDCUP-26-BRA", "title": "Will Brazil win the 2026 World Cup?", "yes_sub_title": "Brazil (winner)", "yes_bid": 8, "yes_ask": 9, "no_bid": 91, "no_ask": 92, "last_price": 8, "volume": 388000, "open_interest": 80000, "status": "active" },
+    { "ticker": "KXMENWORLDCUP-26-GER", "title": "Will Germany win the 2026 World Cup?", "yes_sub_title": "Germany (winner)", "yes_bid": 6, "yes_ask": 7, "no_bid": 93, "no_ask": 94, "last_price": 7, "volume": 210000, "open_interest": 44000, "status": "active" },
+    { "ticker": "KXMENWORLDCUP-26-NED", "title": "Will the Netherlands win the 2026 World Cup?", "yes_sub_title": "Netherlands (winner)", "yes_bid": 5, "yes_ask": 6, "no_bid": 94, "no_ask": 95, "last_price": 6, "volume": 150000, "open_interest": 31000, "status": "active" },
+    { "ticker": "KXMENWORLDCUP-26-USA", "title": "Will the USA win the 2026 World Cup?", "yes_sub_title": "USA (winner)", "yes_bid": 3, "yes_ask": 4, "no_bid": 96, "no_ask": 97, "last_price": 3, "volume": 275000, "open_interest": 52000, "status": "active" },
+    { "ticker": "KXWCADV-26-ESP", "title": "Will Spain advance to the knockout stage?", "yes_sub_title": "Spain to advance", "yes_bid": 95, "yes_ask": 96, "no_bid": 4, "no_ask": 5, "last_price": 96, "volume": 120000, "open_interest": 22000, "status": "active" },
+    { "ticker": "KXWCADV-26-FRA", "title": "Will France advance to the knockout stage?", "yes_sub_title": "France to advance", "yes_bid": 94, "yes_ask": 95, "no_bid": 5, "no_ask": 6, "last_price": 95, "volume": 110000, "open_interest": 20000, "status": "active" },
+    { "ticker": "KXWCADV-26-ARG", "title": "Will Argentina advance to the knockout stage?", "yes_sub_title": "Argentina to advance", "yes_bid": 93, "yes_ask": 94, "no_bid": 6, "no_ask": 7, "last_price": 94, "volume": 105000, "open_interest": 19000, "status": "active" },
+    { "ticker": "KXWCADV-26-MEX", "title": "Will Mexico advance to the knockout stage?", "yes_sub_title": "Mexico to advance", "yes_bid": 91, "yes_ask": 92, "no_bid": 8, "no_ask": 9, "last_price": 92, "volume": 99000, "open_interest": 18000, "status": "active" },
+    { "ticker": "KXWCADV-26-USA", "title": "Will the USA advance to the knockout stage?", "yes_sub_title": "USA to advance", "yes_bid": 82, "yes_ask": 84, "no_bid": 16, "no_ask": 18, "last_price": 83, "volume": 140000, "open_interest": 27000, "status": "active" }
+  ]
+}
