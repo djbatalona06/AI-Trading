@@ -1,0 +1,12 @@
+{
+  "_note": "Sample external 'true probabilities' to demonstrate --probs (edge/EV/Kelly). Keys match a market's team/yes_sub_title or title (case-insensitive). Replace with your own de-vigged bookmaker odds or model output.",
+  "Spain to advance": 0.97,
+  "France to advance": 0.96,
+  "Argentina to advance": 0.95,
+  "Mexico to advance": 0.9,
+  "USA to advance": 0.86,
+  "France (winner)": 0.2,
+  "Spain (winner)": 0.18,
+  "England (winner)": 0.1,
+  "Argentina (winner)": 0.11
+}
